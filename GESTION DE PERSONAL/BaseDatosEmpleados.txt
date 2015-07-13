@@ -1,0 +1,10 @@
+11111111H·1·Moreno·Rubio·Pepe·Administrativo
+12345678Z·2·Puebla·Domingo·Catarina·Becario·PHP¬JavaScript¬JAVA¬SCSS¬HTML & CSS¬GitHub
+22222222J·1·López·Pereira·Josefa·Programador·Project Manager¬Photoshop¬PHP¬JavaScript¬JAVA¬C++¬Ruby¬Rails¬SCSS¬HTML & CSS¬GitHub
+33333333P·2·Ruíz·de la Casa·Laura·Analista·Photoshop¬SCSS¬HTML & CSS¬GitHub
+44444444A·3·Latorre·Ramiro·Miguel·Becario·JavaScript¬SCSS¬HTML & CSS¬GitHub
+55555555K·1·Puebla·Domingo·Antonio·Becario·PHP¬JavaScript¬JAVA¬C++¬Ruby¬Rails¬SCSS¬HTML & CSS¬GitHub
+66666666Q·2·Moreno·Rubio·Manuel·Administrativo
+77777777B·3·López·Ruíz·Raúl·Programador·PHP¬JavaScript¬JAVA¬C++¬Ruby¬Rails¬SCSS¬HTML & CSS¬GitHub¬MySQL
+88888888Y·1·Ruíz·de la Casa·Gema·Analista·Project Manager¬PHP¬JavaScript¬JAVA¬C++¬Ruby¬Rails¬SCSS¬HTML & CSS¬GitHub
+99999999R·2·Ruíz·Carrasco·Antonio·Becario·JavaScript¬SCSS¬HTML & CSS¬GitHub

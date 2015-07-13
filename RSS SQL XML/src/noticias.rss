@@ -1,0 +1,2448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:meneame="http://meneame.net/faq-es.php" version="2.0">
+        <channel>
+                <title>Menéame: en cola</title>
+                <atom:link href="http://www.meneame.net/rss?status=queued" rel="self" type="application/rss+xml"/>
+                <link>http://www.meneame.net/queue</link>
+                <image>
+                        <title>Menéame: en cola</title>
+                        <link>http://www.meneame.net/queue</link>
+                        <url>http://mnmstatic.net/img/mnm/eli-rss.png</url>
+                </image>
+                <description>
+                        Sitio colaborativo de publicación y comunicación entre blogs
+                </description>
+                <pubDate>Fri, 12 Jun 2015 09:30:27 +0000</pubDate>
+                <generator>http://blog.meneame.net/</generator>
+                <language>es</language>
+                <item>
+                        <meneame:link_id>2428514</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>beoxman</meneame:user>
+                        <meneame:clicks/>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>16</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://elfemurdeeva.blogspot.de/2015/06/tu-tambien-eres-gay.html
+                        </meneame:url>
+                        <title>Tú también eres gay</title>
+                        <link>https://www.meneame.net/story/tu-tambien-eres-gay</link>
+                        <comments>https://www.meneame.net/story/tu-tambien-eres-gay</comments>
+                        <pubDate>Fri, 12 Jun 2015 09:30:27 +0000</pubDate>
+                        <dc:creator>beoxman</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ tú también ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ eres gay ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ preguntas incómodas ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ repuestas ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ problemas ]]>
+                        </category>
+                        <guid>https://www.meneame.net/story/tu-tambien-eres-gay</guid>
+                        <description>
+                                <![CDATA[
+                                <p>¿Te incomoda el título del post? ¿Te sentirías más cómodo si hubiese afirmado que tú también eres inmigrante o refugiado? ¿Te identificarías más fácilmente con la lucha por los derechos de un refugiado o de un inmigrante por los derechos? ¿No te parece curioso? ¿No te resulta llamativo descubrir que hay causas ‘humanas’ con las que no te identificas o sientes concernido? No se trata de juzgar(te). Se trata de formular(te/nos) preguntas (incómodas) para ver si se encuentran (más) respuestas a los problemas de siempre.</p><p><strong>etiquetas</strong>: tú también, eres gay, preguntas incómodas, repuestas, problemas</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428514" rel="nofollow">noticia original</a> (elfemurdeeva.blogspot.de)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428514</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428507</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alvetab</meneame:user>
+                        <meneame:clicks/>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>9</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://www.vox.com/2015/6/11/8767423/supreme-court-predictions-robots
+                        </meneame:url>
+                        <title>
+                                Los robots son mejores que los seres humanos en la predicción de las decisiones de la Corte Suprema
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/robots-son-mejores-seres-humanos-prediccion-decisiones-corte
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/robots-son-mejores-seres-humanos-prediccion-decisiones-corte
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:29:38 +0000</pubDate>
+                        <dc:creator>alvetab</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ robots ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ seres humanos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ mejores ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ decisiones ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ corte suprema ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/robots-son-mejores-seres-humanos-prediccion-decisiones-corte
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>El Tribunal Supremo siempre emite sus más importantes decisiones, impactantes cerca del final de junio. El año pasado, la Corte dictaminó que de Obamacare mandato anticonceptivo era ilegal el 30 de junio,los jueces emitieron un importante fallo a favor de la igualdad de matrimonio el 26 de junio.Esto tiende a hacer a principios del verano una temporada legal con observadores prediciendo cómo el tribunal se pronunciará sobre los mayores casos. No te molestes en leer nada de eso. La investigación muestra que los expertos se equivocan mayormente.</p><p><strong>etiquetas</strong>: robots, seres humanos, mejores, decisiones, corte suprema</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428507" rel="nofollow">noticia original</a> (www.vox.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428507</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428509</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>MRonega</meneame:user>
+                        <meneame:clicks/>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>11</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.clarin.com/deportes/futbol-internacional/Vaticano-AFA-Conmebol-escandalo-FIFA_0_1373862890.html
+                        </meneame:url>
+                        <title>
+                                El Vaticano rechaza miles de dólares en donaciones por las denuncias de corrupción en la FIFA
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/vaticano-rechaza-miles-dolares-donaciones-denuncias-corrupcion
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/vaticano-rechaza-miles-dolares-donaciones-denuncias-corrupcion
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:28:59 +0000</pubDate>
+                        <dc:creator>MRonega</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ fifa ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ vaticano ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/vaticano-rechaza-miles-dolares-donaciones-denuncias-corrupcion
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Ante las denuncias de corrupción y lavado de dinero, el Vaticano informó que no va a recibir la donación que destinaría a escuelas. Iban a ser 10 mil dólares por cada gol o penalti parado en la Copa América</p><p><strong>etiquetas</strong>: fifa, vaticano</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428509" rel="nofollow">noticia original</a> (www.clarin.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428509</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428513</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>guachindango</meneame:user>
+                        <meneame:clicks>1</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>1</meneame:negatives>
+                        <meneame:karma>-3</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.elmundotoday.com/2015/06/papa-no-llamaria-precariedad-laboral-al-hecho-de-estar-todo-el-dia-en-casa-tocandote-los-cojones/
+                        </meneame:url>
+                        <title>
+                                Papá no llamaría “precariedad laboral” al hecho de estar “todo el día en casa tocándote los cojones”
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/papa-no-llamaria-precariedad-laboral-hecho-estar-todo-dia-casa
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/papa-no-llamaria-precariedad-laboral-hecho-estar-todo-dia-casa
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:28:51 +0000</pubDate>
+                        <dc:creator>guachindango</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ papá ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ precariedad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ laboral ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ casa ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cojones ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/papa-no-llamaria-precariedad-laboral-hecho-estar-todo-dia-casa
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>En el marco del congreso doméstico sobre planes de futuro, estrategias de inserción laboral y vías provisionales de financiación, papá ha propuesto esta mañana, antes de ir a trabajar, una redefinición del concepto de precariedad laboral que excluya explícitamente el hecho de estar todo el día en casa tocándote los cojones.</p><p><strong>etiquetas</strong>: papá, precariedad, laboral, casa, cojones</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428513" rel="nofollow">noticia original</a> (www.elmundotoday.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428513</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428511</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>scarecrow</meneame:user>
+                        <meneame:clicks/>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>20</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://www.europapress.es/nacional/noticia-llamazares-deja-congreso-pidiendo-cambios-superar-malos-tiempos-parlamento-20150611143644.html
+                        </meneame:url>
+                        <title>Llamazares deja el Congreso</title>
+                        <link>
+                                https://www.meneame.net/story/llamazares-deja-congreso
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/llamazares-deja-congreso
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:27:52 +0000</pubDate>
+                        <dc:creator>scarecrow</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ llamazares ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ iu ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ congreso ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/llamazares-deja-congreso
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>El diputado de Izquierda Unida por Asturias, Gaspar Llamazares, se ha despedido este jueves del Congreso antes de incorporarse a la Junta General del Principado emplazando a los parlamentarios &#34;de hoy y mañana&#34; a hacer los cambios necesarios para que la Cámara Baja &#34;siga siendo el centro de la política&#34; y se superen los &#34;malos tiempos&#34; que, desde su punto de vista, atraviesa el parlamentarismo.</p><p><strong>etiquetas</strong>: llamazares, iu, congreso</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428511" rel="nofollow">noticia original</a> (www.europapress.es)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428511</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428508</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>guachindango</meneame:user>
+                        <meneame:clicks>56</meneame:clicks>
+                        <meneame:votes>2</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>23</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.cookingideas.es/trucos-vintage-20150612.html
+                        </meneame:url>
+                        <title>
+                                Diez trucos caseros 'vintage' que nos hacían la vida más fácil un siglo antes de internet
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/diez-trucos-caseros-vintage-nos-hacian-vida-mas-facil-siglo
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/diez-trucos-caseros-vintage-nos-hacian-vida-mas-facil-siglo
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:26:09 +0000</pubDate>
+                        <dc:creator>guachindango</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ diez ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ trucos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ caseros ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ vintage ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/diez-trucos-caseros-vintage-nos-hacian-vida-mas-facil-siglo
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428508.jpeg?1434101406' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Hay trucos para todo: para montar un mueble, para hacerte el nudo de la corbata sin ahorcarte, para cascar unos huevos con elegancia o incluso...</p><p><strong>etiquetas</strong>: diez, trucos, caseros, vintage</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428508" rel="nofollow">noticia original</a> (www.cookingideas.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428508.jpeg?1434101406" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428508</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428506</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>ciborg</meneame:user>
+                        <meneame:clicks>8</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>19</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>https://www.youtube.com/watch?v=CM-gD13u9iE</meneame:url>
+                        <title>
+                                Presentación de resultados tras las conversaciones sobre la investidura de la alcaldía de Madrid
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/presentacion-resultados-tras-conversaciones-sobre-investidura
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/presentacion-resultados-tras-conversaciones-sobre-investidura
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:25:59 +0000</pubDate>
+                        <dc:creator>ciborg</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ psoe ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ahora madrid ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ rueda de prensa ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ madrid ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ayuntamiento ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/presentacion-resultados-tras-conversaciones-sobre-investidura
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Rueda de prensa. Presentación de resultados tras las conversaciones entre Ahora Madrid y PSOE sobre el proceso de investidura de la alcaldía de Madrid. Rel: <a href="https://conoce.ahoramadrid.org/acuerdo-entre-ahora-madrid-y-el-partido-socialista-de-madrid-para-apoyar-la-investidura-de-manuela-carmena-como-alcaldesa/" title="conoce.ahoramadrid.org/acuerdo-entre-ahora-madrid-y-el-partido-socialista-de-madrid-para-apoyar-la-investidura-de-manuela-carmena-como-alcaldesa/" rel="nofollow">conoce.ahoramadrid.org/acuerdo-entre-ahora-madrid-y-el-partido-sociali</a></p><p><strong>etiquetas</strong>: psoe, ahora madrid, rueda de prensa, madrid, ayuntamiento</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428506" rel="nofollow">noticia original</a> (www.youtube.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428506</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428503</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>pamplonauta</meneame:user>
+                        <meneame:clicks>13</meneame:clicks>
+                        <meneame:votes>4</meneame:votes>
+                        <meneame:negatives>5</meneame:negatives>
+                        <meneame:karma>-43</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://www.abc.es/espana/20150612/abci-esquela-asesinados-201506121024.html
+                        </meneame:url>
+                        <title>
+                                Publican una esquela por los asesinados por ETA en Pamplona
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/publican-esquela-asesinados-eta-pamplona
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/publican-esquela-asesinados-eta-pamplona
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:25:35 +0000</pubDate>
+                        <dc:creator>pamplonauta</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ política ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ navarra ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ pamplona ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/publican-esquela-asesinados-eta-pamplona
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>«Aunque quienes apoyaron o callaron ante los crímenes gobiernen la ciudad, seguiremos recordando y honrando su memoria frente a los totalitarismos y por las libertades». Con este epitafio un grupo de personas desconocidas han publicado este viernes en Diario de Navarra una esquela por las 27 personas asesinadas por ETA en Pamplona.La esquela se publica la víspera de que el próximo alcalde de Pamplona, de Bildu, tome posesión del cargo y al día siguiente de que Bildu, Geroa Bai, Aranzadi e Izquierda Ezkerra llegaran a un acuerdo.</p><p><strong>etiquetas</strong>: política, navarra, pamplona</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428503" rel="nofollow">noticia original</a> (www.abc.es)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428503</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428496</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Danichaguito</meneame:user>
+                        <meneame:clicks>5</meneame:clicks>
+                        <meneame:votes>5</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>41</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://www.informacionsensible.com/news/5136/La-UCO-somete-al-equipo-de-prensa-de-Botella-a-un-intenso-interrogatorio-en-el-marco-de-la-Operacion-Punica/
+                        </meneame:url>
+                        <title>
+                                La UCO somete al equipo de prensa de Botella a un intenso interrogatorio en el marco de la Operación Púnica
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/uco-somete-equipo-prensa-botella-intenso-interrogatorio-marco
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/uco-somete-equipo-prensa-botella-intenso-interrogatorio-marco
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:23:43 +0000</pubDate>
+                        <dc:creator>Danichaguito</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ uco ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ equipo de prensa ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ botella ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ púnica ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ elena sanchéz pérez ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ raúl castillo ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/uco-somete-equipo-prensa-botella-intenso-interrogatorio-marco
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Elena Sánchez Pérez, directora general de Medios de Comunicación del Ayuntamiento de Madrid hasta hace dos semanas, prestó ayer jueves declaración ante la UCO durante más de 5 horas.Su adjunto a la Dirección,Raúl Castillo Muñoz, también prestaba testimonio durante 3 horas ante la Guardia Civil.Una tercera persona del equipo de prensa de Ana Botella,el delegado de Medios del Ayuntamiento,Pedro Gil Caballero también declaró como testigo ante los agentes.La Guardia Civil sospecha que podrían guardar información referida a contratos con la ‘Púnica’</p><p><strong>etiquetas</strong>: uco, equipo de prensa, botella, púnica, elena sanchéz pérez, raúl castillo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428496" rel="nofollow">noticia original</a> (www.informacionsensible.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428496</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428501</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Alberto_fm3</meneame:user>
+                        <meneame:clicks>61</meneame:clicks>
+                        <meneame:votes>3</meneame:votes>
+                        <meneame:negatives>8</meneame:negatives>
+                        <meneame:karma>-86</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://elvesubio.com/blog/los-10-usos-mas-populares-e-increibles-del-bicarbonato-el-vesubio/
+                        </meneame:url>
+                        <title>
+                                10 usos populares del bicarbonato que no te puedes perder
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/10-usos-populares-bicarbonato-no-puedes-perder
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/10-usos-populares-bicarbonato-no-puedes-perder
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:23:01 +0000</pubDate>
+                        <dc:creator>Alberto_fm3</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ bicarbonato ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ consejos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ideas ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ usos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ utilidades ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/10-usos-populares-bicarbonato-no-puedes-perder
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Estas son las 10 utilidades más destacadas y leídas de este blog sobre el bicarbonato</p><p><strong>etiquetas</strong>: bicarbonato, consejos, ideas, usos, utilidades</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428501" rel="nofollow">noticia original</a> (elvesubio.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428501</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428498</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>ipareto</meneame:user>
+                        <meneame:clicks>30</meneame:clicks>
+                        <meneame:votes>2</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>16</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://www.republica.com/viva-la-pepa/2015/06/11/rajoy-echa-el-freno-a-los-cambios-y-de-guindos-hundido/
+                        </meneame:url>
+                        <title>
+                                Rajoy echa el freno a los cambios y De Guindos, hundido
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/rajoy-echa-freno-cambios-guindos-hundido
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/rajoy-echa-freno-cambios-guindos-hundido
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:22:55 +0000</pubDate>
+                        <dc:creator>ipareto</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ rajoy ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ de guindos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ merkel ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ dijsselbloem ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/rajoy-echa-freno-cambios-guindos-hundido
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428498.jpeg?1434101346' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Viajeros procedentes del Complejo de la Moncloa, dicen que esta vez sí, que esta vez Rajoy hará cambios, pero que no esperen demasiados porque, entonces, no sería Rajoy, y que hay una cierta edad, en la que ya no se cambia.</p><p><strong>etiquetas</strong>: rajoy, de guindos, merkel, dijsselbloem</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428498" rel="nofollow">noticia original</a> (www.republica.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428498.jpeg?1434101346" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428498</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428500</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>userjordian</meneame:user>
+                        <meneame:clicks>144</meneame:clicks>
+                        <meneame:votes>4</meneame:votes>
+                        <meneame:negatives>7</meneame:negatives>
+                        <meneame:karma>-72</meneame:karma>
+                        <meneame:comments>3</meneame:comments>
+                        <meneame:url>
+                                http://planetacaliente.com/kaley-cuoco-y-melissa-rauch-las-chicas-de-the-big-bang-theory-muy-sexys/
+                        </meneame:url>
+                        <title>Las chicas de "The big bang theory", muy sexys</title>
+                        <link>
+                                https://www.meneame.net/story/chicas-the-big-bang-theory-muy-sexys
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/chicas-the-big-bang-theory-muy-sexys
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:22:07 +0000</pubDate>
+                        <dc:creator>userjordian</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ the big bang theory ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ melissa rauch ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ kaley couco ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ series ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ sex ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/chicas-the-big-bang-theory-muy-sexys
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Pues si, amigos, en esta ocasión las chicas calientes son las actrices de &#34;The big bang Theory&#34;, Kaley Cuoco y Melissa Rauch, o, Penny y Bernadette en la serie, y sus posados mas sexys en varias publicaciones americanas.</p><p><strong>etiquetas</strong>: the big bang theory, melissa rauch, kaley couco, series, sex</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428500" rel="nofollow">noticia original</a> (planetacaliente.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428500</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428499</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>beoxman</meneame:user>
+                        <meneame:clicks>7</meneame:clicks>
+                        <meneame:votes>7</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>66</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.linuxadictos.com/aragon-se-pasa-al-software-libre-para-mejorar-la-eficiencia.html
+                        </meneame:url>
+                        <title>
+                                Aragón abre su código fuente para mejorar la eficiencia
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/aragon-abre-codigo-fuente-mejorar-eficiencia
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/aragon-abre-codigo-fuente-mejorar-eficiencia
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:21:39 +0000</pubDate>
+                        <dc:creator>beoxman</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ aragón ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ libera ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ software libre ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ eficiencia ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ctt ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ administración pública ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/aragon-abre-codigo-fuente-mejorar-eficiencia
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428499.jpeg?1434100987' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El Gobierno de Aragón ha actualizado la información y código fuente de 25 servicios y aplicaciones de la Administración. Una apuesta para reutilizar las soluciones informáticas que se enmarca en la actividad del Centro de Transferencia de Tecnología (CTT), un sitio donde las administraciones públicas españolas publican software para poder compartirlo entre ellas.</p><p><strong>etiquetas</strong>: aragón, libera, software libre, eficiencia, ctt, administración pública</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428499" rel="nofollow">noticia original</a> (www.linuxadictos.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428499.jpeg?1434100987" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428499</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428493</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>BillyTheKid</meneame:user>
+                        <meneame:clicks/>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>1</meneame:negatives>
+                        <meneame:karma>5</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.nydailynews.com/news/politics/jon-bon-jovi-joins-cuomo-push-hike-wages-article-1.2255661
+                        </meneame:url>
+                        <title>
+                                Jon Bon Jovi apoya en un mitin al gobernador Cuomo en su propuesta de subir el salario mínimo (en inglés)
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/jon-bon-jovi-apoya-mitin-gobernador-cuomo-propuesta-subir-minimo
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/jon-bon-jovi-apoya-mitin-gobernador-cuomo-propuesta-subir-minimo
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:20:22 +0000</pubDate>
+                        <dc:creator>BillyTheKid</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ jon ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ bon ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ jovi ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cuomo ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ nueva york ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ salario ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ mínimo ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/jon-bon-jovi-apoya-mitin-gobernador-cuomo-propuesta-subir-minimo
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>La propuesta de Cuomo, gobernador del estado de Nueva York, de aumentar el salario mínimo tuvo el apoyo de la estrella del rock Jon Bon Jovi en un mitin de ayer jueves. Bon Jovi dijo en el mitin que &#34;subir el salario mínimo trata de equidad. Trata de dar más a los trabajadores de Nueva York para que puedan llegar mejor a final de mes&#34;.</p><p><strong>etiquetas</strong>: jon, bon, jovi, cuomo, nueva york, salario, mínimo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428493" rel="nofollow">noticia original</a> (www.nydailynews.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428493</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428495</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>CaraJaula</meneame:user>
+                        <meneame:clicks>14</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>5</meneame:negatives>
+                        <meneame:karma>-64</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>https://www.youtube.com/watch?v=j81DDY4nvos</meneame:url>
+                        <title>Video 360 de tomorrowland, muy logrado</title>
+                        <link>
+                                https://www.meneame.net/story/video-360-tomorrowland-muy-lograd
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/video-360-tomorrowland-muy-lograd
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:20:12 +0000</pubDate>
+                        <dc:creator>CaraJaula</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ video 360 ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ tomorrowland ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/video-360-tomorrowland-muy-lograd
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Video 360 de Tomorrowland para ver con el movil. Lo pones en pantalla completa y luego moviendo el movil tienes la sensación como si lo estubieses grabando tu mismo!</p><p><strong>etiquetas</strong>: video 360, tomorrowland</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428495" rel="nofollow">noticia original</a> (www.youtube.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428495</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428494</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alvetab</meneame:user>
+                        <meneame:clicks>30</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>9</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.hopesandfears.com/hopes/culture/film/214319-the-future-according-to-anime
+                        </meneame:url>
+                        <title>El futuro según el anime [ENG]</title>
+                        <link>https://www.meneame.net/story/futuro-segun-anime</link>
+                        <comments>https://www.meneame.net/story/futuro-segun-anime</comments>
+                        <pubDate>Fri, 12 Jun 2015 09:17:58 +0000</pubDate>
+                        <dc:creator>alvetab</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ anime ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ predicciones ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ futuro ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ciencia-ficción ]]>
+                        </category>
+                        <guid>https://www.meneame.net/story/futuro-segun-anime</guid>
+                        <description>
+                                <![CDATA[
+                                <p>&#34;Mientras que las audiencias occidentales buscan constantemente a la ciencia ficción para tener una idea de lo que el futuro podría ser similar, el anime es a menudo pasado por alto cuando se sacan sus bolas de cristal. Esto es una pena, porque las fuerzas de talento detrás de una de las formas de arte más populares del mundo tienen una perspectiva muy distintivo en lo que está por venir.He aquí una cronología de lo que la humanidad tiene que esperar, si el anime-masters son correctos.</p><p><strong>etiquetas</strong>: anime, predicciones, futuro, ciencia-ficción</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428494" rel="nofollow">noticia original</a> (www.hopesandfears.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428494</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428490</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Naruedyoh</meneame:user>
+                        <meneame:clicks>78</meneame:clicks>
+                        <meneame:votes>9</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>79</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>
+                                http://www.zonared.com/noticias/descubren-desarrolladoras-subiendo-precio-juegos-rebajas/
+                        </meneame:url>
+                        <title>
+                                Descubren a varias desarrolladoras subiendo el precio de sus juegos antes de las rebajas de Steam
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/descubren-varias-desarrolladoras-subiendo-precio-juegos-antes
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/descubren-varias-desarrolladoras-subiendo-precio-juegos-antes
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:10:23 +0000</pubDate>
+                        <dc:creator>Naruedyoh</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ videojuegos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ steam ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/descubren-varias-desarrolladoras-subiendo-precio-juegos-antes
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428490.jpeg?1434100386' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Algunos juegos llegan a estar a día de hoy más caros que cuando no había rebajas.</p><p><strong>etiquetas</strong>: videojuegos, steam</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428490" rel="nofollow">noticia original</a> (www.zonared.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428490.jpeg?1434100386" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428490</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428489</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Tumaco</meneame:user>
+                        <meneame:clicks>24</meneame:clicks>
+                        <meneame:votes>4</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>39</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://huelvabuenasnoticias.com/2015/06/10/una-profesora-de-aljaraque-ensena-matematicas-a-sus-alumnos-a-traves-de-la-formula-del-pan/
+                        </meneame:url>
+                        <title>
+                                Una profesora de Aljaraque enseña matemáticas a sus alumnos a través de la fórmula del pan
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/profesora-aljaraque-ensena-matematicas-alumnos-traves-formula
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/profesora-aljaraque-ensena-matematicas-alumnos-traves-formula
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:07:47 +0000</pubDate>
+                        <dc:creator>Tumaco</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ motivación ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ educación ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ aplicacion ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ matematicas ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ profesora ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ pan ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/profesora-aljaraque-ensena-matematicas-alumnos-traves-formula
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428489.jpeg?1434100446' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Leticia Camacho. “Si quieres cambiar el mundo, cambia tú y el pequeño mundo que tienes alrededor”. Con este mantra alentador, Isabel Fernández Becerra ha construido un proyecto educativo, ‘Pan para todos’, que ha aplicado en el aula con sus alumnos de 1º de ESO y que consiste en enseñar diferentes conceptos siguiendo el hilo de la fabricación del pan. De esta manera, no solo ha conseguido impartir una asignatura que a muchos se le atraganta, como son las matemáticas, sino que ha hecho partícipes a profesores de otras materias (...)</p><p><strong>etiquetas</strong>: motivación, educación, aplicacion, matematicas, profesora, pan</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428489" rel="nofollow">noticia original</a> (huelvabuenasnoticias.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428489.jpeg?1434100446" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428489</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428488</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>aiounsoufa</meneame:user>
+                        <meneame:clicks>8</meneame:clicks>
+                        <meneame:votes>7</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>63</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.efe.com/efe/noticias/espana/politica/fiscalia-acusa-alto-cargo-generalitat-adjudicaciones-irregulares/1/3/2637564
+                        </meneame:url>
+                        <title>
+                                La Fiscalía acusa a un alto cargo de la Generalitat de adjudicaciones irregulares
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/fiscalia-acusa-alto-cargo-generalitat-adjudicaciones-irregulares
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/fiscalia-acusa-alto-cargo-generalitat-adjudicaciones-irregulares
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:07:21 +0000</pubDate>
+                        <dc:creator>aiounsoufa</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ generalitat ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ adjudicaciones irregulares ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/fiscalia-acusa-alto-cargo-generalitat-adjudicaciones-irregulares
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>La Fiscalía ha presentado una querella contra el presidente de Infraestructuras de la Generalitat Joan Lluís Quer y otras doce personas por presuntas irregularidades en la adjudicación de contratos de la Agencia Catalana del Agua (ACA) a una unión de empresas controlada por ese cargo del gobierno catalán.</p><p><strong>etiquetas</strong>: generalitat, adjudicaciones irregulares</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428488" rel="nofollow">noticia original</a> (www.efe.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428488</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428483</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Denorio</meneame:user>
+                        <meneame:clicks>119</meneame:clicks>
+                        <meneame:votes>21</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>156</meneame:karma>
+                        <meneame:comments>14</meneame:comments>
+                        <meneame:url>
+                                http://www.europapress.es/economia/noticia-motivos-apostar-jornada-intensiva-empresas-20150610125029.html
+                        </meneame:url>
+                        <title>
+                                7 motivos para apostar por la jornada intensiva en las empresas
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/7-motivos-apostar-jornada-intensiva-empresas
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/7-motivos-apostar-jornada-intensiva-empresas
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:01:06 +0000</pubDate>
+                        <dc:creator>Denorio</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ empresas ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ verano ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ trabajo ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/7-motivos-apostar-jornada-intensiva-empresas
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428483.jpeg?1434099786' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>¿Alguna vez has soñado con trabajar de 8.00 a 15.00? ¿Salir de tu oficina a la hora de comer y no volver por la tarde? Con la llegada del verano, es habitual que algunas empresas españolas opten por realizar una jornada intensiva durante los meses más calurosos. Pero, ¿por qué las empresas deberían apostar por este horario?</p><p><strong>etiquetas</strong>: empresas, verano, trabajo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428483" rel="nofollow">noticia original</a> (www.europapress.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428483.jpeg?1434099786" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428483</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428482</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alfanore85</meneame:user>
+                        <meneame:clicks>52</meneame:clicks>
+                        <meneame:votes>19</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>192</meneame:karma>
+                        <meneame:comments>5</meneame:comments>
+                        <meneame:url>
+                                http://www.publico.es/politica/pequeno-nicolas-presumia-negociar-eurovegas.html
+                        </meneame:url>
+                        <title>
+                                El pequeño Nicolás presumía de negociar sobre Eurovegas en una finca de Esperanza Aguirre
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/pequeno-nicolas-presumia-negociar-sobre-eurovegas-finca-aguirre
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/pequeno-nicolas-presumia-negociar-sobre-eurovegas-finca-aguirre
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 09:00:48 +0000</pubDate>
+                        <dc:creator>alfanore85</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ pp ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ esperanza ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ aguirre ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/pequeno-nicolas-presumia-negociar-sobre-eurovegas-finca-aguirre
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428482.jpeg?1434099906' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La primera vez que Francisco Nicolás Gómez Iglesias acudió a la finca de Esperanza Aguirre fue con 16 años. Acabaron bañándose en la piscina él y un grupo de jóvenes a los que había invitado la presidenta del PP de Madrid y candidata a la Alcaldía. Pero no fue la única ocasión.</p><p><strong>etiquetas</strong>: pp, esperanza, aguirre</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428482" rel="nofollow">noticia original</a> (www.publico.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428482.jpeg?1434099906" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428482</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428480</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>sacreew</meneame:user>
+                        <meneame:clicks>67</meneame:clicks>
+                        <meneame:votes>8</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>79</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://www.20minutos.es/deportes/noticia/testigos-rescate-jimmy-no-vieron-agresores-2486304/0/
+                        </meneame:url>
+                        <title>
+                                Un vigilante de seguridad desmiente la versión policial sobre la muerte del ultra Jimmy
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/vigilante-seguridad-desmiente-version-policial-sobre-muerte
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/vigilante-seguridad-desmiente-version-policial-sobre-muerte
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:58:22 +0000</pubDate>
+                        <dc:creator>sacreew</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ vigilante ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ seguridad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ muerte ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ultra ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ jimmy ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/vigilante-seguridad-desmiente-version-policial-sobre-muerte
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428480.jpeg?1434099606' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Desmiente la tesis policial de que la primera persona que fue arrojada al agua fue Jimmy, pese a que no vio la caída de ninguno de los dos hinchas del Deportivo. El resto de testigos presenciales declaran ante el instructor de la investigación que no vieron a sus agresores del Frente Atlético. El ultra del Dépor murió el pasado noviembre tras ser arrojado al río Manzanares.</p><p><strong>etiquetas</strong>: vigilante, seguridad, muerte, ultra, jimmy</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428480" rel="nofollow">noticia original</a> (www.20minutos.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428480.jpeg?1434099606" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428480</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428477</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>munoloperez</meneame:user>
+                        <meneame:clicks>42</meneame:clicks>
+                        <meneame:votes>11</meneame:votes>
+                        <meneame:negatives>1</meneame:negatives>
+                        <meneame:karma>84</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.malavida.com/noticias/rewritethecode-el-documental-que-denuncia-el-silicon-valley-mas-injusto-005316
+                        </meneame:url>
+                        <title>
+                                #RewriteTheCode, el documental que denuncia el Silicon Valley más injusto
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/rewritethecode-documental-denuncia-silicon-valley-mas-injusto
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/rewritethecode-documental-denuncia-silicon-valley-mas-injusto
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:57:29 +0000</pubDate>
+                        <dc:creator>munoloperez</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ sillicon ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ valley ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/rewritethecode-documental-denuncia-silicon-valley-mas-injusto
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428477.jpeg?1434099606' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p><a href="/search?w=links&#38;q=%23RewriteTheCode&#38;o=date">#RewriteTheCode</a> es un proyecto de documental que trata las barreras que se encuentran las mujeres y las minorías raciales en Silicon Valley. Pretende denunciar la situación pero también atraerlas para cambiarla</p><p><strong>etiquetas</strong>: sillicon, valley</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428477" rel="nofollow">noticia original</a> (www.malavida.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428477.jpeg?1434099606" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428477</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428473</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>nilien</meneame:user>
+                        <meneame:clicks>42</meneame:clicks>
+                        <meneame:votes>6</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>63</meneame:karma>
+                        <meneame:comments>4</meneame:comments>
+                        <meneame:url>
+                                http://www.20minutos.es/noticia/2483192/0/aniversario-regreso-al-futuro/viajes-en-el-tiempo/maquinas-del-tiempo/
+                        </meneame:url>
+                        <title>
+                                El DeLorean de 'Regreso al futuro' y otras formas de viajar en el tiempo ideadas por la ficción
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/delorean-regreso-futuro-otras-formas-viajar-tiempo-ideadas
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/delorean-regreso-futuro-otras-formas-viajar-tiempo-ideadas
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:52:00 +0000</pubDate>
+                        <dc:creator>nilien</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ viajes en el tiempo ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ regreso al futuro ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ delorean ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ máquinas del tiempo ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/delorean-regreso-futuro-otras-formas-viajar-tiempo-ideadas
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428473.jpeg?1434099246' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Este año se cumple el 30 aniversario del estreno de 'Regreso al futuro'. El sábado 13 de junio, como homenaje a la película, se llevará a cabo en Madrid una proyección de la misma en pantalla gigante con orquesta en directo. Recordamos varias propuestas de máquinas para viajes temporales, desde la original de H.G. Wells hasta la TARDIS del Doctor Who o las puertas del ministerio del tiempo.</p><p><strong>etiquetas</strong>: viajes en el tiempo, regreso al futuro, delorean, máquinas del tiempo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428473" rel="nofollow">noticia original</a> (www.20minutos.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428473.jpeg?1434099246" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428473</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428472</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>An66</meneame:user>
+                        <meneame:clicks>59</meneame:clicks>
+                        <meneame:votes>23</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>118</meneame:karma>
+                        <meneame:comments>4</meneame:comments>
+                        <meneame:url>
+                                http://www.elboletin.com/nacional/117933/carmena-le-monde-alcaldesa-indignados-madrid.html
+                        </meneame:url>
+                        <title>
+                                Le Monde anuncia la investidura de la alcaldesa de “los indignados”
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/monde-anuncia-investidura-alcaldesa-indignados
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/monde-anuncia-investidura-alcaldesa-indignados
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:49:48 +0000</pubDate>
+                        <dc:creator>An66</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ le monde ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ investidura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ carmena ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ indignados ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/monde-anuncia-investidura-alcaldesa-indignados
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428472.jpeg?1434099366' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Le Monde se hace eco del pacto entre el PSOE de Antonio Miguel Carmona y la plataforma Ahora Madrid que alzará a Manuela Carmena a la alcaldía de la capital. La cabecera francesa relata cómo “una jueza anciana de 71 años, opositora comunista de Franco en sus años jóvenes”, ha arrebatado el consistorio a la “candidata de la derecha, Esperanza Aguirre”.</p><p><strong>etiquetas</strong>: le monde, investidura, carmena, indignados</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428472" rel="nofollow">noticia original</a> (www.elboletin.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428472.jpeg?1434099366" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428472</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428462</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alvetab</meneame:user>
+                        <meneame:clicks>10</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>9</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>
+                                http://www.atlasobscura.com/articles/surprise-you-re-having-a-virgin-animal-birth
+                        </meneame:url>
+                        <title>
+                                ¡Sorpresa! Tendrás un nacimiento virginal Animal [ENG]
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/sorpresa-tendras-nacimiento-virginal-animal-eng
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/sorpresa-tendras-nacimiento-virginal-animal-eng
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:47:27 +0000</pubDate>
+                        <dc:creator>alvetab</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ partenogénesis ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ parto animal ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ virgen ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ naturaleza ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ curiosidades ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/sorpresa-tendras-nacimiento-virginal-animal-eng
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>A principios de este mes, un nuevo artículo publicado en la revista Current Biology levantó algunas cejas. Se documentó, por pura casualidad, la friolera de siete tiburones en Florida todos nacidos sin la necesidad de un padre: todos fueron concebidos por partenogénesis,también conocido como nacimiento virginal animal, por el que fueron concebidos y nacieron por una madre soltera, sin ningún tipo de padre necesario.Hay preguntas clave que aún no han sido contestadas, y los principales hitos ocurren con regularidad. Pero, ¿cómo es posible?</p><p><strong>etiquetas</strong>: partenogénesis, parto animal, virgen, naturaleza, curiosidades</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428462" rel="nofollow">noticia original</a> (www.atlasobscura.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428462</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428468</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>BillyTheKid</meneame:user>
+                        <meneame:clicks>58</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>18</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.bbc.com/mundo/noticias/2015/06/150608_nueva_york_prision_escape_caceria_cch
+                        </meneame:url>
+                        <title>
+                                La espectacular cacería de los asesinos fugitivos de Nueva York
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/espectacular-caceria-asesinos-fugitivos-nueva-york
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/espectacular-caceria-asesinos-fugitivos-nueva-york
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:46:56 +0000</pubDate>
+                        <dc:creator>BillyTheKid</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ fugitivos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ nueva york ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/espectacular-caceria-asesinos-fugitivos-nueva-york
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Un dispositivo de seguridad trata de localizar a Richard Matt y David Sweat, los reos que protagonizaron un cinematográfico escape de una cárcel de alta seguridad. La policía &#34;no tiene idea&#34; de dónde pueden estar.</p><p><strong>etiquetas</strong>: fugitivos, nueva york</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428468" rel="nofollow">noticia original</a> (www.bbc.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428468</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428466</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>mistermoney</meneame:user>
+                        <meneame:clicks>48</meneame:clicks>
+                        <meneame:votes>8</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>81</meneame:karma>
+                        <meneame:comments>4</meneame:comments>
+                        <meneame:url>
+                                http://www.elconfidencial.com/elecciones-municipales-y-autonomicas/2015-06-12/carmena-y-carmona-comparecen-para-informar-del-nuevo-pacto-de-investidura_880233/
+                        </meneame:url>
+                        <title>
+                                Carmena y Carmona comparecen para informar del nuevo pacto de investidura
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/carmena-carmona-comparecen-informar-nuevo-pacto-investidura
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/carmena-carmona-comparecen-informar-nuevo-pacto-investidura
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:46:10 +0000</pubDate>
+                        <dc:creator>mistermoney</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ carmena ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ investidura ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/carmena-carmona-comparecen-informar-nuevo-pacto-investidura
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428466.jpeg?1434099606' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Carmena y Carmona comparecen para informar del nuevo pacto de investidura Elecciones Municipales y Autonómicas. La votación del próximo sábado es crucial ya que si no obtuviese el respaldo de solo uno de los socialistas, Carmena no alcanzaría la mayoría absoluta y la Alcaldía recaería en Esperanza Aguirre relacionada <a href="https://www.meneame.net/story/manuela-carmena-ve-alcaldesa-madrid-tras-hablar-carmona" title="www.meneame.net/story/manuela-carmena-ve-alcaldesa-madrid-tras-hablar-carmona" rel="nofollow">www.meneame.net/story/manuela-carmena-ve-alcaldesa-madrid-tras-hablar-</a></p><p><strong>etiquetas</strong>: carmena, investidura</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428466" rel="nofollow">noticia original</a> (www.elconfidencial.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428466.jpeg?1434099606" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428466</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428461</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>kattalin</meneame:user>
+                        <meneame:clicks>70</meneame:clicks>
+                        <meneame:votes>22</meneame:votes>
+                        <meneame:negatives>1</meneame:negatives>
+                        <meneame:karma>140</meneame:karma>
+                        <meneame:comments>14</meneame:comments>
+                        <meneame:url>
+                                http://www.argia.eus/albistea/dirua-eskaintzen-ari-dira-iruneko-alkate-berriaren-kontra-manifestatzearen-truke
+                        </meneame:url>
+                        <title>
+                                Ofrecen 25 € por acudir a manifestación contra el nuevo alcalde de Pamplona [EU]
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/ofrecen-25-acudir-manifestacion-contra-nuevo-alcalde-pamplona
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/ofrecen-25-acudir-manifestacion-contra-nuevo-alcalde-pamplona
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:45:19 +0000</pubDate>
+                        <dc:creator>kattalin</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ bildu ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ pamplona ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ alcalde ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ manifestación ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/ofrecen-25-acudir-manifestacion-contra-nuevo-alcalde-pamplona
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428461.jpeg?1434098886' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Lo desvela en su cuenta de twitter el director del Diario de Noticias, a quien supuestamente han ofrecido 25 euros por acudir este sábado a una manifestación contra quien será investido alcalde de Pamplona, Joseba Asiron, bajo el lema &#34;Yo no voté a Bildu&#34;.</p><p><strong>etiquetas</strong>: bildu, pamplona, alcalde, manifestación</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428461" rel="nofollow">noticia original</a> (www.argia.eus)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428461.jpeg?1434098886" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428461</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428464</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>sacreew</meneame:user>
+                        <meneame:clicks>127</meneame:clicks>
+                        <meneame:votes>4</meneame:votes>
+                        <meneame:negatives>3</meneame:negatives>
+                        <meneame:karma>-5</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>
+                                http://www.elconfidencial.com/alma-corazon-vida/2015-06-11/las-enfermedades-que-de-verdad-podrias-pillar-en-un-bano-publico_878043/
+                        </meneame:url>
+                        <title>
+                                Las enfermedades que de verdad podrías contraer en un baño público
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/enfermedades-verdad-podrias-contraer-bano-publico
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/enfermedades-verdad-podrias-contraer-bano-publico
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:44:55 +0000</pubDate>
+                        <dc:creator>sacreew</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ enfermedades ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ baño ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ público ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ taza ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ rebañar ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/enfermedades-verdad-podrias-contraer-bano-publico
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Hay ciertas bacterias y virus cuya presencia es habitual en los aseos públicos. No es difícil llevárselas a casa, sobre todo si no tienes la costumbre de lavarte las manos.</p><p><strong>etiquetas</strong>: enfermedades, baño, público, taza, rebañar</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428464" rel="nofollow">noticia original</a> (www.elconfidencial.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428464</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428463</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>mistermoney</meneame:user>
+                        <meneame:clicks>12</meneame:clicks>
+                        <meneame:votes>2</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>25</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>
+                                http://noticias.lainformacion.com/mundo/mueren-66-personas-en-nigeria-por-consumir-alcohol-casero-en-mal-estado_TAPy3awIdfBlNuHFnfqTU3/
+                        </meneame:url>
+                        <title>
+                                Mueren 66 personas en Nigeria por consumir alcohol casero en mal estado
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/mueren-66-personas-nigeria-consumir-alcohol-casero-mal-estado
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/mueren-66-personas-nigeria-consumir-alcohol-casero-mal-estado
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:44:24 +0000</pubDate>
+                        <dc:creator>mistermoney</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ muerte ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ alcohol casero ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/mueren-66-personas-nigeria-consumir-alcohol-casero-mal-estado
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428463.jpeg?1434099726' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Al menos 66 personas han fallecido en el estado nigeriano de Rivers a consecuencia del consumo de al
+                                ]]>
+                                <![CDATA[
+                                cohol de fabricación casera en mal estado. Las víctimas habían consumido ogogoro, una bebida alcohólica típica en el país y frecuentemente preparada de forma casera. . Noticias, última hora, vídeos y fotos de Mundo en lainformacion.com</p><p><strong>etiquetas</strong>: muerte, alcohol casero</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428463" rel="nofollow">noticia original</a> (noticias.lainformacion.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428463.jpeg?1434099726" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428463</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428460</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>snorkel</meneame:user>
+                        <meneame:clicks>19</meneame:clicks>
+                        <meneame:votes>9</meneame:votes>
+                        <meneame:negatives>2</meneame:negatives>
+                        <meneame:karma>42</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>
+                                http://www.idealista.com/news/finanzas-personales/laboral/2015/06/12/737635-ni-el-inem-ni-las-ofertas-de-internet-la-mayor-oficina-de-empleo-en-espana-es
+                        </meneame:url>
+                        <title>
+                                Ni el Inem ni las ofertas de internet: la mayor oficina de empleo es la familia
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/ni-inem-ni-ofertas-internet-mayor-oficina-empleo-familia
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/ni-inem-ni-ofertas-internet-mayor-oficina-empleo-familia
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:44:22 +0000</pubDate>
+                        <dc:creator>snorkel</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ inem ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ paro ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ empleo ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ internet ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ familia ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ españa ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/ni-inem-ni-ofertas-internet-mayor-oficina-empleo-familia
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428460.jpeg?1434098766' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Los cálculos del Instituto Nacional de Estadística (INE) aseguran que prácticamente la mitad de los trabajadores por cuenta ajena que ha encontrado un empleo en los últimos cinco años ha sido gracias a la familia y los amigos.</p><p><strong>etiquetas</strong>: inem, paro, empleo, internet, familia, españa</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428460" rel="nofollow">noticia original</a> (www.idealista.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428460.jpeg?1434098766" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428460</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428456</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>jrmagus</meneame:user>
+                        <meneame:clicks>362</meneame:clicks>
+                        <meneame:votes>10</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>96</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://elchistedemel.blogspot.com.es/2015/06/christopher-lee.html
+                        </meneame:url>
+                        <title>Viñeta: Cristopher Lee</title>
+                        <link>
+                                https://www.meneame.net/story/vineta-cristopher-lee
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/vineta-cristopher-lee
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:40:14 +0000</pubDate>
+                        <dc:creator>jrmagus</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cristopher lee ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ viñeta ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ chiste ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ mel ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/vineta-cristopher-lee
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428456.jpeg?1434098766' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>En homenaje a Cristopher Lee.</p><p><strong>etiquetas</strong>: cristopher lee, viñeta, chiste, mel</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428456" rel="nofollow">noticia original</a> (elchistedemel.blogspot.com.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428456.jpeg?1434098766" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428456</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428455</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>BillyTheKid</meneame:user>
+                        <meneame:clicks>337</meneame:clicks>
+                        <meneame:votes>8</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>79</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://cnnespanol.cnn.com/2015/06/11/el-increible-y-veraz-meme-sobre-la-carrera-de-christopher-lee/
+                        </meneame:url>
+                        <title>
+                                El increíble y veraz meme sobre la carrera de Christopher Lee
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/increible-veraz-meme-sobre-carrera-christopher-lee
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/increible-veraz-meme-sobre-carrera-christopher-lee
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:39:47 +0000</pubDate>
+                        <dc:creator>BillyTheKid</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ christopher lee ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ meme ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/increible-veraz-meme-sobre-carrera-christopher-lee
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428455.jpeg?1434099006' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>En redes sociales circula, en varios idiomas, una meme con la foto del fallecido Christopher Lee con la lista de los personajes que interpretó.</p><p><strong>etiquetas</strong>: christopher lee, meme</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428455" rel="nofollow">noticia original</a> (cnnespanol.cnn.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428455.jpeg?1434099006" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428455</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428451</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Ratoncolorao</meneame:user>
+                        <meneame:clicks>47</meneame:clicks>
+                        <meneame:votes>6</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>61</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.efeverde.com/noticias/cabo-de-palos-recibe-el-titulo-de-mejor-destino-de-buceo-del-continente-europeo/
+                        </meneame:url>
+                        <title>
+                                Cabo de Palos recibe el título de mejor destino de buceo del continente europeo
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/cabo-palos-recibe-titulo-mejor-destino-buceo-continente-europeo
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/cabo-palos-recibe-titulo-mejor-destino-buceo-continente-europeo
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:36:11 +0000</pubDate>
+                        <dc:creator>Ratoncolorao</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cabo de palos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ murcia ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ título ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ buceo ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/cabo-palos-recibe-titulo-mejor-destino-buceo-continente-europeo
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428451.jpeg?1434098406' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La reserva marina de Cabo de Palos-Islas Hormigas es una de las áreas de mayor diversidad subacuática de Europa, que cumple ahora 20 años, cuando por sus algas, corales, inmensa variedad de peces e, incluso, cetáceos en tránsito hacia el Atlántico le han valido el título de mejor destino de buceo del continente</p><p><strong>etiquetas</strong>: cabo de palos, murcia, título, buceo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428451" rel="nofollow">noticia original</a> (www.efeverde.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428451.jpeg?1434098406" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428451</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428452</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>mistermoney</meneame:user>
+                        <meneame:clicks>9</meneame:clicks>
+                        <meneame:votes>4</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>50</meneame:karma>
+                        <meneame:comments>4</meneame:comments>
+                        <meneame:url>
+                                http://www.20minutos.es/noticia/2475610/0/precio-gasolina-alimentos/ipc-mayo-2015/sube-indice-negativo/
+                        </meneame:url>
+                        <title>
+                                Gasolinas y alimentos elevan en mayo medio punto el IPC, que sigue en negativo (-0,2%)
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/gasolinas-alimentos-elevan-mayo-medio-punto-ipc-sigue-negativo-2
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/gasolinas-alimentos-elevan-mayo-medio-punto-ipc-sigue-negativo-2
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:36:00 +0000</pubDate>
+                        <dc:creator>mistermoney</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ipc ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ negativo ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/gasolinas-alimentos-elevan-mayo-medio-punto-ipc-sigue-negativo-2
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428452.jpeg?1434098287' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Desde enero, cuando se situó en el -1,3%, los precios han acumulado un repunte de 1,1 puntos, pero encadena sin embargo su undécima tasa negativa. Estadística atribuye el avance al encarecimiento de los carburantes y lubricantes, comunicaciones y alimentos.</p><p><strong>etiquetas</strong>: ipc, negativo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428452" rel="nofollow">noticia original</a> (www.20minutos.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428452.jpeg?1434098287" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428452</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428446</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>limondelcaribe</meneame:user>
+                        <meneame:clicks>25</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>10</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>http://www.canvi.cat/excuses-de-politic/</meneame:url>
+                        <title>Excusas de político [CAT]</title>
+                        <link>https://www.meneame.net/story/excusas-politico-cat</link>
+                        <comments>https://www.meneame.net/story/excusas-politico-cat</comments>
+                        <pubDate>Fri, 12 Jun 2015 08:35:06 +0000</pubDate>
+                        <dc:creator>limondelcaribe</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ excusas ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ politico ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ municipales ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ elecciones ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ pactos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ alcalde ]]>
+                        </category>
+                        <guid>https://www.meneame.net/story/excusas-politico-cat</guid>
+                        <description>
+                                <![CDATA[
+                                <p>Hay un alcaldable (aquel que se presenta como cabeza de lista de una formación o partido político) que aunque tiene la posibilidad , no quiere ser alcalde.</p><p><strong>etiquetas</strong>: excusas, politico, municipales, elecciones, pactos, alcalde</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428446" rel="nofollow">noticia original</a> (www.canvi.cat)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428446</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428447</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>lendermain</meneame:user>
+                        <meneame:clicks>182</meneame:clicks>
+                        <meneame:votes>12</meneame:votes>
+                        <meneame:negatives>5</meneame:negatives>
+                        <meneame:karma>35</meneame:karma>
+                        <meneame:comments>5</meneame:comments>
+                        <meneame:url>
+                                http://forococheselectricos.com/2015/06/el-hyperloop-se-convierte-en-una-realidad-acuerdo-para-contruir-8-kilometros-en-california.html
+                        </meneame:url>
+                        <title>
+                                El Hyperloop se convierte en una realidad: acuerdo para construir 8 kilómetros en California
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/hyperloop-convierte-realidad-acuerdo-construir-8-kilometros
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/hyperloop-convierte-realidad-acuerdo-construir-8-kilometros
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:33:42 +0000</pubDate>
+                        <dc:creator>lendermain</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ hyperloop ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ california ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ rayada ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/hyperloop-convierte-realidad-acuerdo-construir-8-kilometros
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428447.jpeg?1434098106' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Elon Musk es conocido por muchos otros planes empresariales además de Tesla. Todos ellos son innovadores, y muchos tienen una parte futurista. Es el caso de Hyperloop, el transporte del futuro según Elon Musk. Cuando fue presentado, muchos lo catalogaron de idea extravagante y muy lejana a la realidad.</p><p><strong>etiquetas</strong>: hyperloop, california, rayada</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428447" rel="nofollow">noticia original</a> (forococheselectricos.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428447.jpeg?1434098106" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428447</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428444</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alvetab</meneame:user>
+                        <meneame:clicks>19</meneame:clicks>
+                        <meneame:votes>1</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>9</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.hopesandfears.com/hopes/city/food/213413-myth-superfoods-acai-quinoa-chia-goji
+                        </meneame:url>
+                        <title>
+                                Comida: El ascenso y caída de los superalimentos [ENG]
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/comida-ascenso-caida-superalimentos-eng
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/comida-ascenso-caida-superalimentos-eng
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:32:51 +0000</pubDate>
+                        <dc:creator>alvetab</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ comida ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ superalimentos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ eeuu ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ alimentacion ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ascenso ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ caida ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/comida-ascenso-caida-superalimentos-eng
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Nadie sabe positivamente cómo los superalimentos entraron en la conciencia americana. Algunos creen que fueron los programas de televisión; otros dicen que los médicos descubrieron bayas milagrosas en las montañas del Himalaya. En cualquier caso, el seguimiento de la génesis conduce a través de una larga historia de aceites de serpiente, tráfico de drogas, estrategias de marketing, y no deja casi ningún rincón del mundo sin tocar.Resulta que &#34;superalimentos&#34; es básicamente intercambiables con &#34;la comercialización de alimentos de Estados Unidos&#34;</p><p><strong>etiquetas</strong>: comida, superalimentos, eeuu, alimentacion, ascenso, caida</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428444" rel="nofollow">noticia original</a> (www.hopesandfears.com)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428444</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428450</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>BillyTheKid</meneame:user>
+                        <meneame:clicks>189</meneame:clicks>
+                        <meneame:votes>6</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>54</meneame:karma>
+                        <meneame:comments>0</meneame:comments>
+                        <meneame:url>
+                                http://www.europapress.es/sociedad/noticia-50-cursos-universitarios-gratis-imparten-junio-julio-agosto-20150611133552.html
+                        </meneame:url>
+                        <title>
+                                50 cursos universitarios gratis que se imparten en junio, julio y agosto
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/50-cursos-universitarios-gratis-imparten-junio-julio-agosto
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/50-cursos-universitarios-gratis-imparten-junio-julio-agosto
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:32:10 +0000</pubDate>
+                        <dc:creator>BillyTheKid</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cursos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ gratis ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/50-cursos-universitarios-gratis-imparten-junio-julio-agosto
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428450.jpeg?1434098346' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Aprender chino mandarín básico, hacer un curso sobre los misterios del universo o aprender más sobre la obra de James Joyce son tres de la amplia gama de posibilidades que ofrecen los cursos gratis que las universidades de todo el mundo ofrecen para este verano.</p><p><strong>etiquetas</strong>: cursos, gratis</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428450" rel="nofollow">noticia original</a> (www.europapress.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428450.jpeg?1434098346" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428450</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428442</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>vicus.</meneame:user>
+                        <meneame:clicks>26</meneame:clicks>
+                        <meneame:votes>7</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>61</meneame:karma>
+                        <meneame:comments>5</meneame:comments>
+                        <meneame:url>
+                                https://es.noticias.yahoo.com/upn-presenta-escrito-conciliación-previo-demanda-iglesias-071705812.html
+                        </meneame:url>
+                        <title>
+                                UPN presenta un escrito de conciliación previo a la demanda contra Iglesias
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/upn-presenta-escrito-conciliacion-previo-demanda-contra-iglesias
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/upn-presenta-escrito-conciliacion-previo-demanda-contra-iglesias
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:27:02 +0000</pubDate>
+                        <dc:creator>vicus.</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ upn ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ iglesias ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/upn-presenta-escrito-conciliacion-previo-demanda-contra-iglesias
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428442.jpeg?1434098406' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El origen de la demanda está en unas declaraciones de Iglesias la semana pasada en las que afirmó, en alusión a UPN y el Ayuntamiento de Pamplona, que &#34;corruptos y sinvergüenzas en Navarra utilizan la memoria de las víctimas para querer ser alcalde&#34;.</p><p><strong>etiquetas</strong>: upn, iglesias</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428442" rel="nofollow">noticia original</a> (es.noticias.yahoo.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428442.jpeg?1434098406" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428442</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428441</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Personalidad-Publica</meneame:user>
+                        <meneame:clicks>74</meneame:clicks>
+                        <meneame:votes>71</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>242</meneame:karma>
+                        <meneame:comments>33</meneame:comments>
+                        <meneame:url>
+                                http://www.portaldecadiz.com/cadiz-actualidad/16426-jose-maria-gonzalez-kichi-sera-el-nuevo-alcalde-de-cadiz
+                        </meneame:url>
+                        <title>
+                                Jose María González 'Kichi' será el nuevo alcalde de Cádiz
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/jose-maria-gonzalez-kichi-sera-nuevo-alcalde-cadiz
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/jose-maria-gonzalez-kichi-sera-nuevo-alcalde-cadiz
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:25:20 +0000</pubDate>
+                        <dc:creator>Personalidad-Publica</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ kichi ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ alcalde ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cadiz ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/jose-maria-gonzalez-kichi-sera-nuevo-alcalde-cadiz
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428441.jpeg?1434097626' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Esta mañana de nuevo el candidato del PSOE ha comparecido ante los medios y ha dado el visto bueno al voto de su partido a Jose María González, quien mañana será con los votos de ambos partidos más los ya anunciado de Ganar Cádiz el nuevo regidor Cádiz, desbancando a Teófila Martínez de un cargo que la santanderina ostentaba desde hace 20 años.</p><p><strong>etiquetas</strong>: kichi, alcalde, cadiz</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428441" rel="nofollow">noticia original</a> (www.portaldecadiz.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428441.jpeg?1434097626" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428441</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428439</meneame:link_id>
+                        <meneame:sub>cultura</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Pirenaico</meneame:user>
+                        <meneame:clicks>157</meneame:clicks>
+                        <meneame:votes>11</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>96</meneame:karma>
+                        <meneame:comments>1</meneame:comments>
+                        <meneame:url>
+                                http://elventano.blogspot.com.es/2015/06/la-particular-lista-de-deberes.html
+                        </meneame:url>
+                        <title>
+                                La (particular) lista de deberes escolares de un profesor italiano para las vacaciones
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/particular-lista-deberes-escolares-profesor-italiano-vacaciones
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/particular-lista-deberes-escolares-profesor-italiano-vacaciones
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:23:02 +0000</pubDate>
+                        <dc:creator>Pirenaico</dc:creator>
+                        <category>
+                                <![CDATA[ cultura ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ deberes ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ verano ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ escolares ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ italia ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/particular-lista-deberes-escolares-profesor-italiano-vacaciones
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428439.jpeg?1434097686' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>En Italia, las vacaciones escolares de verano empiezan en junio, y Cesare Catà elaboró una particular lista de deberes para sus alumnos y alumnas de Secundaria en un colegio de la región italiana de Le Marche, donde imparte Ciencias Humanas. Simplemente les invita a emocionarse, a experimentar, a vivir en definitiva.</p><p><strong>etiquetas</strong>: deberes, verano, escolares, italia</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428439" rel="nofollow">noticia original</a> (elventano.blogspot.com.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428439.jpeg?1434097686" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428439</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428440</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alfanore85</meneame:user>
+                        <meneame:clicks>16</meneame:clicks>
+                        <meneame:votes>16</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>161</meneame:karma>
+                        <meneame:comments>8</meneame:comments>
+                        <meneame:url>
+                                http://www.teinteresa.es/dinero/publica-millones-primer-trimestre-PIB_0_1374462772.html
+                        </meneame:url>
+                        <title>
+                                La deuda pública crece en 12.344 millones en el primer trimestre y se sitúa en el 98% del PIB, 1,046 billones de euros
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/deuda-publica-crece-12-344-millones-primer-trimestre-situa-98
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/deuda-publica-crece-12-344-millones-primer-trimestre-situa-98
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:22:57 +0000</pubDate>
+                        <dc:creator>alfanore85</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ deuda ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ publica ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ españa ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/deuda-publica-crece-12-344-millones-primer-trimestre-situa-98
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>La deuda del conjunto de las administraciones públicas se situó en el primer trimestre de este año en 1,046 billones de euros, 12.344 millones de euros más que en el último trimestre del año anterior, con lo que ya se sitúa en el 98% del PIB, según datos del Banco de España.</p><p><strong>etiquetas</strong>: deuda, publica, españa</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428440" rel="nofollow">noticia original</a> (www.teinteresa.es)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428440</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428438</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>Raditz</meneame:user>
+                        <meneame:clicks>66</meneame:clicks>
+                        <meneame:votes>50</meneame:votes>
+                        <meneame:negatives>3</meneame:negatives>
+                        <meneame:karma>169</meneame:karma>
+                        <meneame:comments>24</meneame:comments>
+                        <meneame:url>
+                                http://www.bolsamania.com/noticias/politica/rita-barbera-deja-el-ayuntamiento-de-valencia-tras-el-pacto-de-psoe-compromis-y-podemos--760103.html
+                        </meneame:url>
+                        <title>
+                                Rita Barberá deja el Ayuntamiento de Valencia tras el pacto de PSOE, Compromís y Podemos
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/rita-barbera-deja-ayuntamiento-valencia-tras-pacto-psoe-podemos
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/rita-barbera-deja-ayuntamiento-valencia-tras-pacto-psoe-podemos
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:21:49 +0000</pubDate>
+                        <dc:creator>Raditz</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ rita barberá ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ renuncia ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ concejal ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ valencia ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/rita-barbera-deja-ayuntamiento-valencia-tras-pacto-psoe-podemos
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428438.jpeg?1434097387' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La alcaldesa en funciones de Valencia, Rita Barberá, no tomará posesión de su acta de concejal este sábado. La dirigente del PP, pese a que fue la más votada en las elecciones del 24 de mayo, no contaba con la mayoría suficiente para gobernar, y el pacto de PSOE, Compromís y Podemos ha acabado por dejarla fuera del Ayuntamiento valenciano. Rel: <a href="https://www.meneame.net/story/rita-barbera-quiere-renunciar-acta-ahorrarse-traspaso-poder-ribo" title="www.meneame.net/story/rita-barbera-quiere-renunciar-acta-ahorrarse-traspaso-poder-ribo" rel="nofollow">www.meneame.net/story/rita-barbera-quiere-renunciar-acta-ahorrarse-tra</a></p><p><strong>etiquetas</strong>: rita barberá, renuncia, concejal, valencia</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428438" rel="nofollow">noticia original</a> (www.bolsamania.com)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428438.jpeg?1434097387" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428438</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428437</meneame:link_id>
+                        <meneame:sub>ocio</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>kipwalker</meneame:user>
+                        <meneame:clicks>178</meneame:clicks>
+                        <meneame:votes>5</meneame:votes>
+                        <meneame:negatives>4</meneame:negatives>
+                        <meneame:karma>-11</meneame:karma>
+                        <meneame:comments>3</meneame:comments>
+                        <meneame:url>
+                                http://www.webviralistas.info/2015/04/7-maneras-de-usar-un-condon-en.html
+                        </meneame:url>
+                        <title>7 Maneras de Usar 1 Condón:Supervivencia</title>
+                        <link>
+                                https://www.meneame.net/story/7-maneras-usar-1-condon-supervivencia
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/7-maneras-usar-1-condon-supervivencia
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:20:16 +0000</pubDate>
+                        <dc:creator>kipwalker</dc:creator>
+                        <category>
+                                <![CDATA[ ocio ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ condones ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ supervivencia ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/7-maneras-usar-1-condon-supervivencia
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <p>Los condones no sólo pueden ser usados como método anticonceptivo y contra las enfermedades de transmisión sexual, hay otras 7 maneras en las que puede salvarte la vida y tú ni eneterad@. Esto hará que siempre cargues unos cuantos contigo, y si tu mamá te los encuentra, puedes decirle que son herramientas de superviviencia. :P</p><p><strong>etiquetas</strong>: condones, supervivencia</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428437" rel="nofollow">noticia original</a> (www.webviralistas.info)</p>
+                                ]]>
+                        </description>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428437</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428436</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>kalimochero</meneame:user>
+                        <meneame:clicks>25</meneame:clicks>
+                        <meneame:votes>5</meneame:votes>
+                        <meneame:negatives>5</meneame:negatives>
+                        <meneame:karma>-29</meneame:karma>
+                        <meneame:comments>14</meneame:comments>
+                        <meneame:url>
+                                http://www.eldiario.es/internacional/Felipe-Gonzalez-Venezuela-democracia-traicionada_0_397561326.html
+                        </meneame:url>
+                        <title>
+                                González ha vuelto este jueves a España después de un viaje a Caracas en el que no le fue permitido ver a los presos pol
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/gonzalez-ha-vuelto-este-jueves-espana-despues-viaje-caracas-no
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/gonzalez-ha-vuelto-este-jueves-espana-despues-viaje-caracas-no
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:18:22 +0000</pubDate>
+                        <dc:creator>kalimochero</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ felipe gonzalez ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ politica ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ maduro ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ podemos ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/gonzalez-ha-vuelto-este-jueves-espana-despues-viaje-caracas-no
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428436.jpeg?1434097267' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>&#34;Venezuela es una democracia traicionada en la que se burla el estado de derecho&#34;, ha asegur
+                                ]]>
+                                <![CDATA[
+                                ado el expresidente en una rueda de prensa González agradeció la &#34;torpeza&#34; de Nicolás Maduro que &#34;le dio mucha relevancia&#34; a su visita a ese país sudamericanoGonzález ha vuelto este jueves a España después de un viaje a Caracas en el que no le fue permitido ver a los presos políticos ni participar en su def</p><p><strong>etiquetas</strong>: felipe gonzalez, politica, maduro, podemos</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428436" rel="nofollow">noticia original</a> (www.eldiario.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428436.jpeg?1434097267" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428436</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428434</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>alvetab</meneame:user>
+                        <meneame:clicks>189</meneame:clicks>
+                        <meneame:votes>6</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>49</meneame:karma>
+                        <meneame:comments>2</meneame:comments>
+                        <meneame:url>http://boingboing.net/2015/06/09/tis-100-game.html</meneame:url>
+                        <title>
+                                Programa un extraño equipo dañado y descubre sus secretos [ENG]
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/programa-extrano-equipo-danado-descubre-secretos-eng
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/programa-extrano-equipo-danado-descubre-secretos-eng
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:16:36 +0000</pubDate>
+                        <dc:creator>alvetab</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ tis-100 ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ juego ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ensamblador ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ computacion ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ aprendizaje ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/programa-extrano-equipo-danado-descubre-secretos-eng
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428434.jpeg?1434097146' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Imagínese que usted encuentra un ordenador viejo misterioso, tal vez en un sótano o un garaje. Al arrancarlo el &#34;Sistema Inteligente Tesselated&#34; -o TIS-100: muestra un derecho de autor se remonta a 1972, y un mensaje de error: &#34;. SEGMENTOS corrompido DETECTADO, INITIALIZING DEBUGGER&#34; Es llevado a una herramienta de autodiagnóstico, donde usted tiene que crear nuevos programas y reescribir el código corrupto en la máquina, con un poco de ayuda de un manual fotocopiado del ordenador directamente la década de 1980. Esta es TIS-100</p><p><strong>etiquetas</strong>: tis-100, juego, ensamblador, computacion, aprendizaje</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428434" rel="nofollow">noticia original</a> (boingboing.net)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428434.jpeg?1434097146" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428434</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428435</meneame:link_id>
+                        <meneame:sub>tecnología</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>edusan</meneame:user>
+                        <meneame:clicks>20</meneame:clicks>
+                        <meneame:votes>6</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>52</meneame:karma>
+                        <meneame:comments>3</meneame:comments>
+                        <meneame:url>
+                                http://www.eldiario.es/turing/vigilancia_y_privacidad/facebook-pgp_0_397560962.html
+                        </meneame:url>
+                        <title>Facebook dejará cifrar pero se quedará las llaves</title>
+                        <link>
+                                https://www.meneame.net/story/facebook-dejara-cifrar-pero-quedara-llaves
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/facebook-dejara-cifrar-pero-quedara-llaves
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:14:09 +0000</pubDate>
+                        <dc:creator>edusan</dc:creator>
+                        <category>
+                                <![CDATA[ tecnología ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ redes sociales ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ internet ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ facebook ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ cifrado de datos ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ privacidad ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/facebook-dejara-cifrar-pero-quedara-llaves
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428435.jpeg?1434097207' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Facebook anunció recientemente que sus usuarios ya pueden cifrar las notificaciones que reciben por email empleando claves PGP. Este sistema consiste en una combinación te técnicas de criptografía orientadas a garantizar que un mensaje solo puede ser leído por el emisor y por el destinatario. PGP, o Pretty Good Privacy (este es el simpático significado de unas siglas que asustan a primera vista), permite lo que se llama cifrado de la comunicación end-to-end o extremo a extremo. Este tipo de cifrado está pensado para...</p><p><strong>etiquetas</strong>: redes sociales, internet, facebook, cifrado de datos, privacidad</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428435" rel="nofollow">noticia original</a> (www.eldiario.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428435.jpeg?1434097207" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428435</wfw:commentRss>
+                </item>
+                <item>
+                        <meneame:link_id>2428433</meneame:link_id>
+                        <meneame:sub>actualidad</meneame:sub>
+                        <meneame:status>queued</meneame:status>
+                        <meneame:user>valencianet</meneame:user>
+                        <meneame:clicks>107</meneame:clicks>
+                        <meneame:votes>68</meneame:votes>
+                        <meneame:negatives>0</meneame:negatives>
+                        <meneame:karma>271</meneame:karma>
+                        <meneame:comments>22</meneame:comments>
+                        <meneame:url>
+                                http://www.eldiario.es/cv/Ribo-rebajara-escandaloso-Barbera-Espana_0_397910253.html
+                        </meneame:url>
+                        <title>
+                                Ribó se rebajará el “escandaloso” sueldo de Barberá, el cargo mejor pagado de España
+                        </title>
+                        <link>
+                                https://www.meneame.net/story/ribo-rebajara-escandaloso-sueldo-barbera-cargo-mejor-pagado
+                        </link>
+                        <comments>
+                                https://www.meneame.net/story/ribo-rebajara-escandaloso-sueldo-barbera-cargo-mejor-pagado
+                        </comments>
+                        <pubDate>Fri, 12 Jun 2015 08:13:54 +0000</pubDate>
+                        <dc:creator>valencianet</dc:creator>
+                        <category>
+                                <![CDATA[ actualidad ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ ribó ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ rita ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ barberá ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ sueldo ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ alcalde ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ valencia ]]>
+                        </category>
+                        <category>
+                                <![CDATA[ compromís ]]>
+                        </category>
+                        <guid>
+                                https://www.meneame.net/story/ribo-rebajara-escandaloso-sueldo-barbera-cargo-mejor-pagado
+                        </guid>
+                        <description>
+                                <![CDATA[
+                                <img src='https://mnmstatic.net/cache/25/0e/media_thumb-link-2428433.jpeg?1434096906' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La cuantía de la rebaja está por decidir –se quiere consensuar con el resto de partidos- y no tiene porque afectar al resto de cargos, pero Ribó ya ha dejada clara su posición. &#34;Tengo claro que hay que bajar ese salario. No queremos ser el sitio donde el alcalde cobre más de toda España, como ocurría hasta estos momentos&#34;. El salario es “escandaloso” teniendo en cuenta “que casi un tercio de la población está en el umbral de la pobreza&#34;.</p><p><strong>etiquetas</strong>: ribó, rita, barberá, sueldo, alcalde, valencia, compromís</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=2428433" rel="nofollow">noticia original</a> (www.eldiario.es)</p>
+                                ]]>
+                        </description>
+                        <media:thumbnail url="https://mnmstatic.net/cache/25/0e/media_thumb-link-2428433.jpeg?1434096906" width="60" height="60"/>
+                        <wfw:commentRss>http://www.meneame.net/comments_rss?id=2428433</wfw:commentRss>
+                </item>
+        </channel>
+</rss>
